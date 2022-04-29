@@ -5,7 +5,8 @@ Repo ini adalah tempat saya menyimpan hasil ujian, tugas, dan latihan mandiri se
 
 Adapun mata kuliah yang ada di repo ini adalah:
 * Kecerdasan Buatan
-  * Algoritma Genetika
+  * Tugas
+    * Algoritma Genetika
   * UTS
     * Logika Truth-Lie riddle
 * ...
